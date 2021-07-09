@@ -48,3 +48,4 @@ and nascimento between '1990-1-1' and '2000-12-31';
 -- exercício 09
 select count(*) from gafanhotos
 where sexo = 'F' and altura > 1.90;
+
